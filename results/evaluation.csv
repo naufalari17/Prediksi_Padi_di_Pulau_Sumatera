@@ -1,0 +1,5 @@
+,R2-score,Mean Absolute Error,Mean Squared Error
+Linear Regression,84.59084,0.211612,0.154092
+Random Forest,86.281533,0.21099,0.137185
+K-Neighbors,82.353772,0.294686,0.176462
+Decision Tree,79.059485,0.267631,0.209405
