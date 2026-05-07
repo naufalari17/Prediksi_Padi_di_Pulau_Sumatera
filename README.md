@@ -14,12 +14,6 @@ Project ini bertujuan untuk membandingkan performa beberapa algoritma dalam mela
 
 ---
 
-## 📂 Dataset
-
-Dataset yang digunakan berisi beberapa fitur numerik yang digunakan untuk memprediksi variabel target (misalnya produksi).
-*(Tambahkan sumber dataset jika ada, misalnya Kaggle)*
-
----
 
 ## Model yang Digunakan
 
