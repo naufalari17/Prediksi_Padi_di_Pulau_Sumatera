@@ -2,7 +2,7 @@
 
 ## Deskripsi Project
 
-Project ini bertujuan untuk membandingkan performa beberapa algoritma **Machine Learning Regression** dalam melakukan prediksi berdasarkan dataset yang digunakan. Model yang diuji meliputi Linear Regression, Random Forest, K-Nearest Neighbors (KNN), dan Decision Tree.
+Project ini bertujuan untuk membandingkan performa beberapa algoritma dalam melakukan prediksi berdasarkan dataset yang digunakan. Model yang diuji meliputi Linear Regression, Random Forest, K-Nearest Neighbors (KNN), dan Decision Tree.
 
 ---
 
